@@ -1,0 +1,17 @@
+Module	Section	Sample Name	Source
+FastQC	all_sections	Heart_ZT0_1_R1	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Heart_ZT0_1_R1_fastqc.zip
+FastQC	all_sections	Heart_ZT0_1_R2	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Heart_ZT0_1_R2_fastqc.zip
+FastQC	all_sections	Heart_ZT0_2_R1	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Heart_ZT0_2_R1_fastqc.zip
+FastQC	all_sections	Heart_ZT0_2_R2	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Heart_ZT0_2_R2_fastqc.zip
+FastQC	all_sections	Heart_ZT12_1_R1	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Heart_ZT12_1_R1_fastqc.zip
+FastQC	all_sections	Heart_ZT12_1_R2	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Heart_ZT12_1_R2_fastqc.zip
+FastQC	all_sections	Heart_ZT12_2_R1	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Heart_ZT12_2_R1_fastqc.zip
+FastQC	all_sections	Heart_ZT12_2_R2	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Heart_ZT12_2_R2_fastqc.zip
+FastQC	all_sections	Liver_ZT0_1_R1	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Liver_ZT0_1_R1_fastqc.zip
+FastQC	all_sections	Liver_ZT0_1_R2	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Liver_ZT0_1_R2_fastqc.zip
+FastQC	all_sections	Liver_ZT0_2_R1	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Liver_ZT0_2_R1_fastqc.zip
+FastQC	all_sections	Liver_ZT0_2_R2	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Liver_ZT0_2_R2_fastqc.zip
+FastQC	all_sections	Liver_ZT12_1_R1	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Liver_ZT12_1_R1_fastqc.zip
+FastQC	all_sections	Liver_ZT12_1_R2	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Liver_ZT12_1_R2_fastqc.zip
+FastQC	all_sections	Liver_ZT12_2_R1	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Liver_ZT12_2_R1_fastqc.zip
+FastQC	all_sections	Liver_ZT12_2_R2	/mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports/Liver_ZT12_2_R2_fastqc.zip

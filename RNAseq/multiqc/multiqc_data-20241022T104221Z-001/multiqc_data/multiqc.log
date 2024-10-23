@@ -1,0 +1,2 @@
+[2024-10-21 10:36:55,311] multiqc.core.file_search                           [INFO   ]  Search path: /mnt/data/wellytics/akshay.jain/test/pcgr/RNA/bio/QC_reports
+[2024-10-21 10:36:55,792] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 16 reports
