@@ -1,0 +1,11 @@
+{
+  "RNASeqPipeline.reference_genome_gz": "/path/to/reference_genome.fa.gz",
+  "RNASeqPipeline.annotation_gtf": "/path/to/annotation.gtf",
+  "RNASeqPipeline.fastq_files": [
+    "/path/to/sample1_R1.fastq.gz",
+    "/path/to/sample1_R2.fastq.gz",
+    "/path/to/sample2_R1.fastq.gz",
+    "/path/to/sample2_R2.fastq.gz"
+  ],
+  "RNASeqPipeline.threads": 8
+}
